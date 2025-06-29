@@ -10,64 +10,38 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Installation files for osTicket
-- Azure Virtual Machine 
-- Heidi SQL
 
 <h2>Lab Overview</h2>
-This project demonstrates the deployment and configuration of the osTicket open-source support ticket system in a cloud-based environment. The lab simulates a real-world IT support/help desk scenario using a Windows-based Azure virtual machine.
 
 Lab Objectives:
-- Deploy and configure osTicket on an Azure-hosted Windows Server VM using IIS, PHP, and MySQL.
 
-- Connect and manage the osTicket database using HeidiSQL for user, ticket, and SLA data.
 
-Simulate real help desk operations by ->
-
-- Creating and managing support tickets
-
-- Configuring SLA plans
-
-- Setting up departments and teams
-
-- Assigning user roles and permissions
-
-- Testing workflows between users, agents, and admins
-
-<h2>Installation Steps</h2>
+<h2>Example Setup</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1AowAXG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this example, Clark Kent is submitting a ticket to report trouble connecting to the company VPN from home. He selects the help topic: "Report a Problem / Access Issue" to categorize his request appropriately.
+
+The ticket simulates a common remote access problem and demonstrates how users can initiate support requests when experiencing connectivity issues that prevent them from accessing internal systems.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SLUeRVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once tickets are submitted, agents can view them in real time through the Agent Panel. From here, they can monitor incoming requests, respond to users, and track ticket status.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NgFoEUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In this example, we are setting the priority level of the ticket to High, as the issue involves VPN connectivity, which impacts the user’s ability to access internal systems remotely.
+
+We have also updated the SLA Plan to reflect the urgency of the request and assigned the ticket to a top-level technician for faster resolution.
 <br />
