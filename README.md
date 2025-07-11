@@ -6,11 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
-
 <h2>Lab Overview</h2>
 
 Lab Objectives:
@@ -19,7 +14,7 @@ Lab Objectives:
 <h2>Example Setup</h2>
 
 <p>
-<img src="https://i.imgur.com/1AowAXG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1AowAXG.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this example, Clark Kent is submitting a ticket to report trouble connecting to the company VPN from home. He selects the help topic: "Report a Problem / Access Issue" to categorize his request appropriately.
@@ -30,7 +25,7 @@ The ticket simulates a common remote access problem and demonstrates how users c
 <br />
 
 <p>
-<img src="https://i.imgur.com/SLUeRVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SLUeRVT.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once tickets are submitted, agents can view them in real time through the Agent Panel. From here, they can monitor incoming requests, respond to users, and track ticket status.
@@ -38,7 +33,7 @@ Once tickets are submitted, agents can view them in real time through the Agent 
 <br />
 
 <p>
-<img src="https://i.imgur.com/NgFoEUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NgFoEUt.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this example, we are setting the priority level of the ticket to High, as the issue involves VPN connectivity, which impacts the user’s ability to access internal systems remotely.
