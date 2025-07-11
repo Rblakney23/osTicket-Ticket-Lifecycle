@@ -9,6 +9,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Lab Overview</h2>
 
 Lab Objectives:
+Simulate the ticket lifecycle stages
+- Demonstrate each phase from Intake → Assignment & Communication → Working the Issue → Resolution, showing how a ticket progresses through the system 
+
+Map ticket flow from multiple perspectives
+- Illustrate the experience from both end-user and agent/system administrator viewpoints, including priority changes and reassignment.
+
+Showcase ticket updates and SLA application
+- Include actions such as setting priorities (High, Emergency), changing SLA plans, and reassigning departments or agents mid-lifecycle 
 
 
 <h2>Example Setup</h2>
