@@ -6,7 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Lab Overview</h2>
+<h2>Lab Walkthrough</h2>
 
 Lab Objectives:
 
