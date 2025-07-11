@@ -9,6 +9,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Lab Overview</h2>
 
 Lab Objectives:
+
 Simulate the ticket lifecycle stages
 - Demonstrate each phase from Intake → Assignment & Communication → Working the Issue → Resolution, showing how a ticket progresses through the system 
 
